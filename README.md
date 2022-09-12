@@ -1,5 +1,5 @@
 # Python_QRMakerApp
-"This App Can Making The QR Code Via Text"
+"This App Can Making The QR Code From Text"
 
 Tutorial Video : https://youtu.be/T9f4-GHVqtY
 - Created By Krerkkiat Wattanaporn
